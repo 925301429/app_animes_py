@@ -6,3 +6,5 @@ Yo propongo desarrollar una app donde los jovenes de diferentes edades y aman el
 
 # diseño
 ![alt text](image.png)
+
+https://www.figma.com/design/GpJH1kCukv74O3pmmbjXhR/Untitled?node-id=32-18&t=2OzoJINYvYrlZRXP-1
